@@ -1,0 +1,36 @@
+version 1.2.13
+Added function to get separator character from a file, option to not use quotes in output file, option as to which normalization method to use, new intesity plots, fixed pronlem with odd number of samples.
+Date: 20/06/2012
+-----------------------------------------------------
+version 1.2.12
+Solved different issues: odd samples, graph color in QCCheck
+Date: 01/11/2011 
+-----------------------------------------------------
+version 1.2.11
+Solved graphical issues when bad samples
+Date: 20/09/2011 
+-----------------------------------------------------
+version 1.2.10
+Modified the plots for Bisulfite II and Specificity II controls
+Date: 06/06/2011 
+-----------------------------------------------------
+version 1.2.9
+Added also for the platform 450k the function to discard the X-related CpGs from the analysis
+Date: 03/05/2011 
+-----------------------------------------------------
+version 1.2.8
+Code revised; compatible with the new Illumina platform 450k; added new features; documentation revised
+Import of input files by the function ImportData
+Date: 04/04/2011 
+-----------------------------------------------------
+version 1.1.1
+Solved a bug in the DemoData
+Date: 24/11/2010 
+-----------------------------------------------------
+version 1.1
+Changed the normalisation method.
+Date: 22/11/2010 
+-----------------------------------------------------
+version 1.0.0
+First release. 
+Date: 04/11/2010
