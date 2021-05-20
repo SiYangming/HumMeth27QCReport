@@ -14,7 +14,7 @@ BiocManager::install(c("IlluminaHumanMethylation27k.db","FDb.InfiniumMethylation
 ### 安装源码包
 
 ```R
-install.packages("path/to/HumMeth27QCReport_1.2.14.tar.gz", repos = NULL, type = "source")
+install.packages("path/to/HumMeth27QCReport_1.2.15.tar.gz", repos = NULL, type = "source")
 ```
 
 ### 安装Windows二进制包
