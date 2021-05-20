@@ -6,7 +6,6 @@ https://cran.r-project.org/src/contrib/Archive/HumMeth27QCReport/
 ## 安装依赖包
 
 ```R
-BiocManager::install(c("",""))
 install.packages(c("amap", "tcltk2"))
 BiocManager::install(c("IlluminaHumanMethylation27k.db","FDb.InfiniumMethylation.hg18","FDb.InfiniumMethylation.hg19"))
 ```
